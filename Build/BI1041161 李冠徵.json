@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BI1041161",
+"productVersion": "0.1",
+"dataUrl": "BI1041161 李冠徵.data.unityweb",
+"wasmCodeUrl": "BI1041161 李冠徵.wasm.code.unityweb",
+"wasmFrameworkUrl": "BI1041161 李冠徵.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
